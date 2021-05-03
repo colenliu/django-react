@@ -1,6 +1,6 @@
 # django-react
 
-A simple Django REST with React and Javascript project in the form of a contact list.
+A simple project in the form of a contact list, built with Django REST framework, Python, React, and Javascript. 
 
 ### To Run:
 
